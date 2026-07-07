@@ -21,7 +21,7 @@ Always eager to learn new technologies and solve real-world problems through cle
 
 ## 📫 Connect With Me
 
-- 📧 Email: **raunak.rkuma4@gmail.con*
+- 📧 Email: **raunak.rkumar4@gmail.com*
 - 💼 LinkedIn: **https://linkedin.com/in/raunak-kumar-65a392256**
 - 🌐 Portfolio: **https://raunakport.netlify.app/**
 - 💻 GitHub: **https://github.com/raunak5616**
