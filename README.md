@@ -30,7 +30,14 @@ Always eager to learn new technologies and solve real-world problems through cle
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raunak5616/raunak5616/output/ocean.gif" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/raunak5616/raunak5616/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/raunak5616/raunak5616/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/raunak5616/raunak5616/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 # 💻 Tech Stack
 
