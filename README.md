@@ -24,7 +24,7 @@ Hi 👋 I'm Raunak Kumar
 
 🎓 MCA Graduate
 
-💻 Java Full Stack Developer
+💻 Java Full Stack Developer | MERN
 
 🌱 Currently Learning
 
@@ -57,21 +57,18 @@ YOUR_EMAIL
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href=https://www.linkedin.com/in/raunak-kumar-65a392256/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:raunak.rkumar4@gmail.comL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://raunakport.netlify.app/">
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
 
 </p>
 
@@ -86,10 +83,6 @@ YOUR_EMAIL
 <img src="https://skillicons.dev/icons?i=java" />
 
 <img src="https://skillicons.dev/icons?i=js" />
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://skillicons.dev/icons?i=c" />
 
 <img src="https://skillicons.dev/icons?i=cpp" />
 
@@ -199,9 +192,9 @@ React • Tailwind CSS • Framer Motion
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=raunak5616&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak5616&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -211,7 +204,7 @@ React • Tailwind CSS • Framer Motion
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=raunak5616&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -221,7 +214,7 @@ React • Tailwind CSS • Framer Motion
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak5616&theme=tokyo-night"/>
 
 </p>
 
@@ -231,7 +224,7 @@ React • Tailwind CSS • Framer Motion
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=raunak5616&theme=algolia&no-frame=true&column=7"/>
 
 </p>
 
@@ -269,7 +262,7 @@ src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-gr
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=raunak5616&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
