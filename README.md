@@ -9,7 +9,8 @@ Always eager to learn new technologies and solve real-world problems through cle
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me ##
+
 
 - 🎓 MCA Graduate
 - 💼 Open to **Software Engineer | Java Developer | Full Stack Developer** roles
